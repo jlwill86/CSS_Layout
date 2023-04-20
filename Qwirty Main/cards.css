@@ -20,7 +20,7 @@
     font-family: 'Open Sans', sans-serif;
     align-items:center;
     justify-content: center;
-   
+   align-items: baseline;
 }
 section{
     width: max-content;
