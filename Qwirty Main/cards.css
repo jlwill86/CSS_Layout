@@ -1,0 +1,27 @@
+.card {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    margin: 0 1rem 1rem 5px;
+    box-shadow: 0 3px 5px -2px black;
+    height: auto;
+    width: auto;
+    padding: 2px;
+    
+}
+
+.card-container {
+    display: flex;
+    flex-direction: row;
+    padding: .5rem 25px;
+    
+    flex: 1;
+    flex-wrap: wrap;
+    font-family: 'Open Sans', sans-serif;
+    align-items:center;
+    justify-content: center;
+   
+}
+section{
+    width: max-content;
+}

@@ -1,0 +1,33 @@
+.SideNav {
+    display: flex;
+    width: 10px;
+    height: 10px;
+    flex-direction: column;
+    padding: 1rem;
+    margin: 20px;
+    
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    font-size: larger;
+}
+
+/*.Sidenav {
+    display: flex;
+    flex-direction: column;
+    flex:  1 256px;
+    padding: 1em;
+    color: blue;
+}
+*/
+.SideNav > a {
+    text-decoration: none;
+    background: #44b;
+    color: white;
+    font-family: 'Dosis';
+    text-transform: uppercase;
+    text-align: center;
+    margin: 1em 0.5em;
+    padding: 1em;
+    flex-direction: column;
+    
+}
